@@ -105,8 +105,6 @@
 - [GraphCool](https://www.graph.cool):
 Self-Hosted GraphQL BaaS
 - [Hasura](https://hasura.io): Get GraphQL APIs over Postgres instantly
-- [Meldio](https://meldio.com): Open source GraphQL backend for building delightful mobile and web apps
-- [Prisma](https://www.prismagraphql.com): Turn your database into a GraphQL API
 - [Scaphold](https://scaphold.io): GraphQL Backend As A Service
 
 
