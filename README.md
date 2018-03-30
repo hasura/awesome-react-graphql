@@ -21,7 +21,7 @@
 
 ## Clients
 
-> React clients for GraphQL
+> React and React Native clients for GraphQL
 
 - [Relay Modern](https://facebook.github.io/relay/): A JavaScript framework for building data-driven React applications
   - [Docs](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
