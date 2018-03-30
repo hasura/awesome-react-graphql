@@ -100,7 +100,7 @@
 
 ## GraphQL BaaS Providers
 
-> Get a GraphQL backend for your applications using these service providers (sorted alphabetically)
+> Get a GraphQL backend for your applications using these service providers
 
 - [GraphCool](https://www.graph.cool):
 Self-Hosted GraphQL BaaS
