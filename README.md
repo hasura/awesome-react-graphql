@@ -36,7 +36,7 @@
 
 ## Developer Tools
 
-> Tools for better development (Debugging, Linting, Validation)
+> Tools for better development (debugging, linting, validation etc)
 
 - Code generators:
   - [apollo-codegen](https://github.com/apollographql/apollo-codegen): Generate API code or type annotations based on a GraphQL schema and query documents
