@@ -116,11 +116,14 @@ Self-Hosted GraphQL BaaS
 
 > Awesome articles and videos
 
+- [(Video) From REST to GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8)
 - [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
 - [Thinking in Graphs](http://graphql.org/learn/thinking-in-graphs/)
 - [What are the benefits of using GraphQL and why it surpasses REST](https://blog.hellocomet.co/graphql-benefits-api/)
 
 ## Stories
+
+> Good and bad experiences
 
 - [The Evolution of React and GraphQL at Facebook and Beyond](https://developers.facebook.com/videos/f8-2017/the-evolution-of-react-and-graphql-at-facebook-and-beyond/)
 - [(Video) Lessons from 4 Years of GraphQL](https://www.youtube.com/watch?v=zVNrqo9XGOs)
