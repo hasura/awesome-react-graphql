@@ -106,7 +106,7 @@
 
 - [GraphCool](https://www.graph.cool):
 Self-Hosted GraphQL BaaS
-- [Hasura](https://hasura.io): Get GraphQL APIs over Postgres instantly
+- [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
 - [Scaphold](https://scaphold.io): GraphQL Backend As A Service
 
 
