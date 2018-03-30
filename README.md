@@ -8,7 +8,7 @@
 - [Tutorials](#tutorials)
 - [Boilerplates](#boilerplates-and-example-apps)
 - [Advanced Use Cases](#advanced-use-cases)
-- [GraphQL BAaS Providers](#graphql-baas-providers)
+- [GraphQL BaaS Providers](#graphql-baas-providers)
 - [Articles](#articles)
 - [Stories](#stories)
 
@@ -100,7 +100,7 @@
   - [Multiple Mutations with Relay Modern](https://stackoverflow.com/questions/40328992/how-to-call-multiple-mutations-at-the-same-time)
 
 
-# GraphQL BAaS Providers
+# GraphQL BaaS Providers
 
 > Get a GraphQL backend for your applications using these service providers
 
