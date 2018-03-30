@@ -8,7 +8,7 @@
 - [Tutorials](#tutorials)
 - [Boilerplates](#boilerplates-and-example-apps)
 - [Advanced Use Cases](#advanced-use-cases)
-- [GraphQL BAaS](#graphql-baas)
+- [GraphQL BAaS Providers](#graphql-baas-providers)
 - [Articles](#articles)
 - [Stories](#stories)
 
