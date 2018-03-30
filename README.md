@@ -124,7 +124,8 @@ Self-Hosted GraphQL BaaS
 
 ### Videos
 
-- [(Video) From REST to GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8)
+- [From REST to GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8)
+- [Data fetching for React Applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
 
 ## Stories
 
