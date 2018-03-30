@@ -1,5 +1,7 @@
 # Awesome React GraphQL
 
+> A curated collection of resources, clients and tools related to the React-GraphQL duo.
+
 ## Contents
 
 - [General Resources](#general-resources)
@@ -9,7 +11,7 @@
 - [Boilerplates](#boilerplates-and-example-apps)
 - [Advanced Use Cases](#advanced-use-cases)
 - [GraphQL BaaS Providers](#graphql-baas-providers)
-- [Articles](#articles)
+- [Articles and Videos](#articles-and-videos)
 - [Stories](#stories)
 
 ## General Resources
@@ -23,25 +25,25 @@
 
 > React clients for GraphQL
 
-- [Relay Modern](https://facebook.github.io/relay/): A JavaScript framework for building data-driven React applications
-  - [Docs](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
-  - [Github](https://github.com/facebook/relay)
-  - [Discord](https://discord.gg/0ZcbPKXt5bX40xsQ)
 - [Apollo](https://www.apollographql.com/): Apollo Client is a community-driven GraphQL client for React, JavaScript, and native platforms
   - [Docs](https://www.apollographql.com/docs/react/)
   - [Github](https://github.com/apollographql)
   - [Slack](https://www.apollographql.com/slack)
+- [Relay Modern](https://facebook.github.io/relay/): A JavaScript framework for building data-driven React applications
+  - [Docs](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
+  - [Github](https://github.com/facebook/relay)
+  - [Discord](https://discord.gg/0ZcbPKXt5bX40xsQ)
 
 ## Developer Tools
 
-> Tools for better development (Debugging, Linting, Validating)
+> Tools for better development (Debugging, Linting, Validation)
 
 - Code generators:
   - [apollo-codegen](https://github.com/apollographql/apollo-codegen): Generate API code or type annotations based on a GraphQL schema and query documents
   - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator with flexible support for custom templates
 - Linters:
   - [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql): Check your GraphQL query strings against a schema
-- React Debugging Tools
+- ReactJS Debugging Tools
   - [Apollo Client Developer Tools](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm): Chrome extension for Apollo Client developer tools
   - [Relay DevTools](https://chrome.google.com/webstore/detail/relay-devtools/oppikflppfjfdpjimpdadhelffjpciba): A Chrome Extension that creates a Relay tab in the developer tools interface for debugging apps in Chrome
   - [Relay Devtools Electron](https://www.npmjs.com/package/relay-devtools): StandAlone Relay DevTools App for debugging Relay outside Chrome
@@ -52,7 +54,7 @@
 
 > Awesome tutorials for using GraphQL with React and React Native
 
-- React
+- ReactJS
   - [React + Relay Tutorial](https://www.howtographql.com/react-relay/0-introduction/)
   - [(Video) Using GraphQL, ReactJS and Apollo to Create Amazing Apps](https://youtu.be/kXH2dbnHYA0)
   - [React + Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
@@ -68,7 +70,7 @@
 
 > Boilerplates and examples for a headstart in development
 
-- React
+- ReactJS
   - [ReactQL](https://reactql.org/): Universal React+GraphQL starter kit
     - [Docs](https://reactql.org/docs/)
     - [Github](https://github.com/reactql)
@@ -100,9 +102,9 @@
   - [Multiple Mutations with Relay Modern](https://stackoverflow.com/questions/40328992/how-to-call-multiple-mutations-at-the-same-time)
 
 
-# GraphQL BaaS Providers
+## GraphQL BaaS Providers
 
-> Get a GraphQL backend for your applications using these service providers
+> Get a GraphQL backend for your applications using these service providers (sorted alphabetically)
 
 - [GraphCool](https://www.graph.cool):
 Self-Hosted GraphQL BaaS
@@ -112,14 +114,17 @@ Self-Hosted GraphQL BaaS
 - [Scaphold](https://scaphold.io): GraphQL Backend As A Service
 
 
-## Articles
+## Articles and Videos
 
-> Awesome articles and videos
+### Articles
 
-- [(Video) From REST to GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8)
 - [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
 - [Thinking in Graphs](http://graphql.org/learn/thinking-in-graphs/)
 - [What are the benefits of using GraphQL and why it surpasses REST](https://blog.hellocomet.co/graphql-benefits-api/)
+
+### Videos
+
+- [(Video) From REST to GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8)
 
 ## Stories
 
