@@ -97,10 +97,6 @@
   - [Polling](https://dev-blog.apollodata.com/dynamic-graphql-polling-with-react-and-apollo-client-fb36e390d250): Dynamic GraphQL polling with React and Apollo Client
   - [Subscriptions with Relay Modern](https://facebook.github.io/relay/docs/en/subscriptions.html)
   - [Subscriptions with Apollo Client](https://www.apollographql.com/docs/react/advanced/subscriptions.html): Learn how to achieve realtime data with GraphQL subscriptions using Apollo Client.
-- Multiple Mutations
-  - [Multiple Mutations with Apollo](https://www.learnapollo.com/tutorial-react/react-06/)
-  - [Multiple Mutations with Relay Modern](https://stackoverflow.com/questions/40328992/how-to-call-multiple-mutations-at-the-same-time)
-
 
 ## GraphQL BaaS Providers
 
