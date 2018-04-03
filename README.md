@@ -86,6 +86,7 @@
   - [React Native Todo App using Apollo Client](https://hasura.io/hub/projects/hasura/react-native-apollo-todo)
   - [frontpage-react-native-app](https://github.com/apollographql/frontpage-react-native-app): Apollo "hello world" app, for React Native
   - [pokedex-react-native](https://github.com/learnapollo/pokedex-react-native)
+  - [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo)
 
 ## Advanced Use Cases
 
