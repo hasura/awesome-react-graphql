@@ -59,6 +59,7 @@
   - [(Video) Using GraphQL, ReactJS and Apollo to Create Amazing Apps](https://youtu.be/kXH2dbnHYA0)
   - [React + Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
   - [(Video) Getting Started with Relay Modern, React & GraphQL](https://www.youtube.com/watch?v=XeALXh37WeU)
+  - [(Video) Building Full-Stack App, Including a GraphQL Server on Node.js & React Front-End (with Apollo)](https://www.youtube.com/watch?v=XeALXh37WeU)
 - React Native
   - [(Video series) Build a Twitter Clone with Apollo Graphql & React-Native  ](https://www.youtube.com/watch?v=33qP1QMmjv8)
   - [How to setup React Native + GraphQL + Relay Modern](https://codeburst.io/how-to-setup-a-react-native-graphql-relay-modern-a6a5f6c18353)
