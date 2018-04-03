@@ -81,6 +81,7 @@
   - [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) - Boilerplate for building Next.js apps with Apollo.
   - [Universal React Apollo](https://github.com/WeLikeGraphQL/universal-react-apollo-example) - Universal React Apollo Example App with Webpack, Recompose, CSS Modules, and other cool stuff.
   - [GitHunt React](https://github.com/apollographql/GitHunt-React)
+  - [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo)
 - React Native
   - [WhatsApp Clone](https://github.com/srtucker22/chatty)
   - [React Native Todo App using Apollo Client](https://hasura.io/hub/projects/hasura/react-native-apollo-todo)
