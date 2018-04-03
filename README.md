@@ -99,6 +99,7 @@
   - [Polling](https://dev-blog.apollodata.com/dynamic-graphql-polling-with-react-and-apollo-client-fb36e390d250): Dynamic GraphQL polling with React and Apollo Client
   - [Subscriptions with Relay Modern](https://facebook.github.io/relay/docs/en/subscriptions.html)
   - [Subscriptions with Apollo Client](https://www.apollographql.com/docs/react/advanced/subscriptions.html): Learn how to achieve realtime data with GraphQL subscriptions using Apollo Client.
+- [Gatsby](https://www.gatsbyjs.org/): Blazing-fast static site generator for React
 
 ## GraphQL BaaS Providers
 
