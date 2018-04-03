@@ -73,7 +73,7 @@
 - ReactJS
   - [ReactQL](https://reactql.org/): Universal React+GraphQL starter kit
     - [Docs](https://reactql.org/docs/)
-    - [Github](https://github.com/reactql)
+    - [Github](https://github.com/reactql/cli)
   - [UniversalRelayBoilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate)
   - [React Todo App using Apollo Client](https://hasura.io/hub/projects/hasura/react-apollo-todo-app)
   Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
