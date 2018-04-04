@@ -68,8 +68,6 @@
   - [Building Chatty](https://medium.com/react-native-training/building-chatty-a-whatsapp-clone-with-react-native-and-apollo-part-1-setup-68a02f7e11): A WhatsApp clone with React Native and Apollo
   - [Code an App With GraphQL, React Native, and AWS AppSync: The API](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-and-react-native--cms-30511)
   - [Code an App With GraphQL, React Native and AWS AppSync: The App](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-react-native-and-aws-appsync-the-app--cms-30569)
-- Vue
-  - [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)
 - Miscellaneous
   - [A cartoon intro to facebook's Relay](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-1-3ec1a127bca5)
 
