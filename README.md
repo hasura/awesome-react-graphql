@@ -33,6 +33,8 @@
   - [Docs](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
   - [Github](https://github.com/facebook/relay)
   - [Discord](https://discord.gg/0ZcbPKXt5bX40xsQ)
+- [AppSync](https://github.com/awslabs/aws-mobile-appsync-sdk-js): JavaScript GraphQL library for Offline, Sync, Sigv4. includes support for React Native
+  - [Docs](https://docs.aws.amazon.com/appsync/latest/devguide/welcome.html)
 - [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
 
 ## Developer Tools
@@ -62,12 +64,15 @@
   - [(Video) Using GraphQL, ReactJS and Apollo to Create Amazing Apps](https://youtu.be/kXH2dbnHYA0)
   - [React + Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
   - [(Video) Getting Started with Relay Modern, React & GraphQL](https://www.youtube.com/watch?v=XeALXh37WeU)
+  - [Building a Real Time React Application with GraphQL & AWS AppSync](https://www.youtube.com/watch?v=qNkkPoq9D3k&t=10s)
   - [(Video) Building Full-Stack App, Including a GraphQL Server on Node.js & React Front-End (with Apollo)](https://www.youtube.com/watch?v=XeALXh37WeU)
   - [(Video series) React Apollo New Rendered Props Components](https://www.youtube.com/watch?v=gF-peiFjG0o&list=PLN3n1USn4xlnsOPMwzSG4RiaGvtKMNCmn): Learn about the new components in React Apollo. They use Rendered Props.
 - React Native
   - [(Video series) Build a Twitter Clone with Apollo Graphql & React-Native](https://www.youtube.com/watch?v=33qP1QMmjv8)
   - [How to setup React Native + GraphQL + Relay Modern](https://codeburst.io/how-to-setup-a-react-native-graphql-relay-modern-a6a5f6c18353)
   - [Building Chatty](https://medium.com/react-native-training/building-chatty-a-whatsapp-clone-with-react-native-and-apollo-part-1-setup-68a02f7e11): A WhatsApp clone with React Native and Apollo
+  - [Code an App With GraphQL, React Native, and AWS AppSync: The API](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-and-react-native--cms-30511)
+  - [Code an App With GraphQL, React Native and AWS AppSync: The App](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-react-native-and-aws-appsync-the-app--cms-30569)
   - [(Video series) React Native and Prisma GraphQL eCommerce Project](https://www.youtube.com/watch?v=nyE6shIRzxM&list=PLN3n1USn4xlmqhVdKMurNREwtiUpq-SFy)
 - Miscellaneous
   - [A cartoon intro to facebook's Relay](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-1-3ec1a127bca5)
@@ -82,6 +87,7 @@
     - [Github](https://github.com/reactql/cli)
   - [UniversalRelayBoilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate)
   - [React Todo App using Apollo Client](https://hasura.io/hub/projects/hasura/react-apollo-todo-app)
+  - [React AppSync Starter App](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)
   Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
   - [Relay Skeleton](https://github.com/fortruce/relay-skeleton) - Relay project skeleton.
   - [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) - Boilerplate for building Next.js apps with Apollo.
@@ -93,6 +99,7 @@
   - [React Native Todo App using Apollo Client](https://hasura.io/hub/projects/hasura/react-native-apollo-todo)
   - [frontpage-react-native-app](https://github.com/apollographql/frontpage-react-native-app): Apollo "hello world" app, for React Native
   - [pokedex-react-native](https://github.com/learnapollo/pokedex-react-native)
+  - [GraphQL starter application with Realtime and Offline functionality using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react-native)
   - [React, Apollo & GraphQL Starter Kits](https://github.com/graphql-boilerplates/react-fullstack-graphql/): Fullstack boilerplate project with a database and best practices for authentication, filtering, pagination and
 
 ## Advanced Use Cases
@@ -116,6 +123,7 @@
 - [Graphcool](https://www.graph.cool): Self-Hosted GraphQL BaaS
 - [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
 - [Scaphold](https://scaphold.io): GraphQL Backend As A Service
+- [AWS AppSync](https://aws.amazon.com/appsync/): Build data-driven apps with real-time and offline capabilities
 
 ## Articles and Videos
 
