@@ -76,6 +76,8 @@
   - [(Video series) React Native and Prisma GraphQL eCommerce Project](https://www.youtube.com/watch?v=nyE6shIRzxM&list=PLN3n1USn4xlmqhVdKMurNREwtiUpq-SFy)
 - Miscellaneous
   - [A cartoon intro to facebook's Relay](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-1-3ec1a127bca5)
+  - [A complete React with GraphQL Tutorial](https://www.robinwieruch.de/react-with-graphql-tutorial/)
+  - [A complete React with Apollo and GraphQL Tutorial](https://www.robinwieruch.de/react-graphql-apollo-tutorial/)
 
 ## Boilerplates and Example Apps
 
@@ -94,6 +96,11 @@
   - [Universal React Apollo](https://github.com/WeLikeGraphQL/universal-react-apollo-example) - Universal React Apollo Example App with Webpack, Recompose, CSS Modules, and other cool stuff.
   - [GitHunt React](https://github.com/apollographql/GitHunt-React)
   - [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo)
+  - [React + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-vanilla)
+  - [A simple React GraphQL Client](https://github.com/rwieruch/react-graphql-client)
+  - [Apollo-Link-State in React](https://github.com/rwieruch/react-apollo-link-state-example)
+  - [Mocking a Apollo Client in React for Testing](https://github.com/rwieruch/react-apollo-client-mocking-example)
+  - [Testing Apollo Client in React](https://github.com/rwieruch/react-apollo-client-testing-example)
 - React Native
   - [WhatsApp Clone](https://github.com/srtucker22/chatty)
   - [React Native Todo App using Apollo Client](https://hasura.io/hub/projects/hasura/react-native-apollo-todo)
