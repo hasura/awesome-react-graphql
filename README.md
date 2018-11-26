@@ -130,7 +130,6 @@
 
 - [Graphcool](https://www.graph.cool): Self-Hosted GraphQL BaaS
 - [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
-- [Scaphold](https://scaphold.io): GraphQL Backend As A Service
 - [AWS AppSync](https://aws.amazon.com/appsync/): Build data-driven apps with real-time and offline capabilities
 
 ## Articles and Videos
