@@ -54,6 +54,7 @@
   - [Relay Devtools Electron](https://www.npmjs.com/package/relay-devtools): Standalone Relay DevTools App for debugging Relay outside Chrome
 - GraphQL Workflows:
   - [GraphQL Playground](https://github.com/graphcool/graphql-playground): Powerful GraphQL IDE built on top of GraphiQL
+  - [GraphiQL Online](https://graphiql-online.com): An online version of GraphiQL with a configurable endpoint and headers.
 
 ## Tutorials
 
