@@ -55,6 +55,8 @@
 - GraphQL Workflows:
   - [GraphQL Playground](https://github.com/graphcool/graphql-playground): Powerful GraphQL IDE built on top of GraphiQL
   - [GraphiQL Online](https://graphiql-online.com): An online version of GraphiQL with a configurable endpoint and headers.
+- Apollo Client Tools
+  - [Apollo Cache Updater](https://github.com/ecerroni/apollo-cache-updater) - Helper for updating the apollo cache after a mutation in scenarios where apollo's in-place update may not be sufficient.
 
 ## Tutorials
 
@@ -142,6 +144,7 @@
 - [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
 - [Thinking in Graphs](http://graphql.org/learn/thinking-in-graphs/)
 - [What are the benefits of using GraphQL and why it surpasses REST](https://blog.hellocomet.co/graphql-benefits-api/)
+- [React-powered Gatsby with GraphQL for E-Commerce](https://snipcart.com/blog/react-graphql-grav-cms-headless-tutorial) - A guide to building an e-commerce site with Gatsby and GraphQL using Grav as a headless CMS. Demo included. 
 
 ### Videos
 
