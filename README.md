@@ -129,13 +129,15 @@
 - JWT
   - [Ultimate guide to handling JWTs on frontend clients](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
 
-## GraphQL BaaS Providers
+## Server Side Tools
 
 > Get a GraphQL backend for your applications using these service providers
 
-- [Graphcool](https://www.graph.cool): Self-Hosted GraphQL BaaS
-- [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
 - [AWS AppSync](https://aws.amazon.com/appsync/): Build data-driven apps with real-time and offline capabilities
+- [Graphcool](https://graph.cool): Self-Hosted GraphQL BaaS
+- [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
+- [Postgraphile](https://www.graphile.org): Rapidly build highly customisable GraphQL APIs
+- [Prisma](https://www.prisma.io/): Turn your database into a GraphQL API.
 
 ## Articles and Videos
 
