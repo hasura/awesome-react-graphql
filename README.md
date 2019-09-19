@@ -128,6 +128,8 @@
 - [Gatsby](https://www.gatsbyjs.org/): Blazing-fast static site generator for React
 - JWT
   - [Ultimate guide to handling JWTs on frontend clients](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
+- Performance Tracing
+  - [Performance Tracing for GraphQL with Apollo and it’s friends](https://hackernoon.com/performance-tracing-for-graphql-with-apollo-and-its-friends-877adf733322)
 
 ## Server Side Tools
 
