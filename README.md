@@ -68,7 +68,7 @@
   - [(Video) Using GraphQL, ReactJS and Apollo to Create Amazing Apps](https://youtu.be/kXH2dbnHYA0)
   - [React + Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
   - [(Video) Getting Started with Relay Modern, React & GraphQL](https://www.youtube.com/watch?v=XeALXh37WeU)
-  - [Building a Real Time React Application with GraphQL & AWS AppSync](https://www.youtube.com/watch?v=qNkkPoq9D3k&t=10s)
+  - [(Video) Building a Real Time React Application with GraphQL & AWS AppSync](https://www.youtube.com/watch?v=qNkkPoq9D3k&t=10s)
   - [(Video) Building Full-Stack App, Including a GraphQL Server on Node.js & React Front-End (with Apollo)](https://www.youtube.com/watch?v=XeALXh37WeU)
   - [(Video series) React Apollo New Rendered Props Components](https://www.youtube.com/watch?v=gF-peiFjG0o&list=PLN3n1USn4xlnsOPMwzSG4RiaGvtKMNCmn): Learn about the new components in React Apollo. They use Rendered Props.
 - React Native
