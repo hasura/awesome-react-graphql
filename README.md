@@ -28,6 +28,7 @@
 - [Apollo](https://www.apollographql.com/): Apollo Client is a community-driven GraphQL client for React, JavaScript, and native platforms
   - [Docs](https://www.apollographql.com/docs/react/)
   - [Github](https://github.com/apollographql)
+  - [Spectrum](https://spectrum.chat/apollo)
   - [Slack](https://www.apollographql.com/slack)
 - [Relay Modern](https://facebook.github.io/relay/): A JavaScript framework for building data-driven React applications
   - [Docs](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
