@@ -170,3 +170,4 @@
 
 ## Books
 - [GraphQL in Action](https://www.manning.com/books/graphql-in-action)
+- [Fullstack GraphQL Applications with GRANDstack](https://www.manning.com/books/fullstack-graphql-applications-with-grandstack)
